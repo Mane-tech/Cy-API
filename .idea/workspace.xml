@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4db405f2-4a35-4c16-a549-27789b6ead30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1opgm3N6MAjUkCEziVK9hcpYD1n" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory" />
+        <option value="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" />
+        <option value="GlassfishConfiguration" />
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+        <option value="JBossConfiguration" />
+        <option value="JettyConfiguration" />
+        <option value="TomeeConfiguration" />
+        <option value="WebLogic Instance" />
+        <option value="WebSphereRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db405f2-4a35-4c16-a549-27789b6ead30" name="Default Changelist" comment="" />
+      <created>1613989104252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613989104252</updated>
+      <workItem from="1613989108049" duration="516000" />
+      <workItem from="1613991113182" duration="7543000" />
+      <workItem from="1614000431940" duration="2928000" />
+      <workItem from="1614022465119" duration="2850000" />
+      <workItem from="1614068638597" duration="3074000" />
+      <workItem from="1614074079331" duration="2113000" />
+      <workItem from="1614079970690" duration="4978000" />
+      <workItem from="1614152836825" duration="14778000" />
+      <workItem from="1614239602957" duration="19322000" />
+      <workItem from="1614542720607" duration="557000" />
+      <workItem from="1614548645259" duration="614000" />
+      <workItem from="1614580878401" duration="5248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614542752588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1614542752588" />
+  </component>
+</project>
