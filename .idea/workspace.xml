@@ -25,7 +25,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="excludedTypes">
@@ -66,12 +66,15 @@
       <workItem from="1614548645259" duration="614000" />
       <workItem from="1614580878401" duration="5816000" />
       <workItem from="1614591358054" duration="513000" />
-      <workItem from="1614600284089" duration="2226000" />
+      <workItem from="1614600284089" duration="2367000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="367" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614542752588">
@@ -82,9 +85,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614602070347" />
-    <state x="188" y="0" key="SettingsEditor" timestamp="1614603035242">
+    <state x="188" y="0" key="SettingsEditor" timestamp="1614608762218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="188" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614603035242" />
+    <state x="188" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614608762218" />
   </component>
 </project>
