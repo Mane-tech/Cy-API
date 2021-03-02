@@ -8,7 +8,6 @@ describe('Sign up with api',  function() {
             });
         });
 
-
     it('verify log in ', function () {
 
         cy.visit('https://www.demoblaze.com/index.html');
@@ -138,6 +137,5 @@ describe('Sign up with api',  function() {
         cy.visit('https://www.demoblaze.com/cart.html');
         // verify product visibility
         cy.contains('Iphone 6 32gb').should('be.visible');
-
     });
 });
